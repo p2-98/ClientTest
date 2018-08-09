@@ -1,4 +1,4 @@
-12345678910
+HASH: 12345678910 123456
 VERS: 10
 LINK: ping google.com
 CMD: test
