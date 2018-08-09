@@ -1,5 +1,6 @@
 HASH: 12345678910 123456
 VERS: 10
-LINK: ping google.com
-CMD: test
+NAME: test.txt
+LINK: https://raw.githubusercontent.com/phamphuqui1998/ClientTest/master/FileTest/testfile.txt
+CMD: test.txt
 ACMD: test
