@@ -3,4 +3,3 @@ VERS: 10
 NAME: test.txt
 LINK: https://raw.githubusercontent.com/phamphuqui1998/ClientTest/master/FileTest/testfile.txt
 CMD: test.txt
-ACMD: test
