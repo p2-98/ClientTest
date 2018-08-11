@@ -1,4 +1,4 @@
-HASH: 12345678910 123456
+HASH: 12345678910123456
 VERS: 10
 NAME: test.txt
 LINK: https://raw.githubusercontent.com/phamphuqui1998/ClientTest/master/FileTest/testfile.txt
