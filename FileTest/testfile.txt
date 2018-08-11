@@ -1,1 +1,1 @@
-ping 192.168.50.162
+start-process notepad.exe
