@@ -1,4 +1,4 @@
 HASH: e35294ca59d95505e37024d31a7f51f4
 VERS: 10, 7
-NAME: test.txt
-LINK: https://raw.githubusercontent.com/phamphuqui1998/ClientTest/master/FileTest/testfile.txt
+NAME: malware.exe
+LINK: https://github.com/phamphuqui1998/ClientTest/raw/master/FileTest/cobalt1.exe
